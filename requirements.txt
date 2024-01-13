@@ -1,0 +1,6 @@
+fix-yahoo-finance
+pandas-datareader
+keras
+numpy
+tensorflow
+pandas
